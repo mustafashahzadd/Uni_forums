@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "328204923617",
+    "project_id": "final-exam-preperation",
+    "storage_bucket": "final-exam-preperation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328204923617:android:c7c60e3213492b6d35fda0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_practic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAao6zvmfR_m5DRZePfA8magoYQpFW5WOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328204923617:android:8a2974b7932ecedf35fda0",
+        "android_client_info": {
+          "package_name": "com.example.uni_forums"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAao6zvmfR_m5DRZePfA8magoYQpFW5WOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
