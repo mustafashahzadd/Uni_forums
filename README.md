@@ -19,10 +19,27 @@
 
 A fully functional **university forum application** built with Flutter, Firebase Firestore, Firebase Authentication, and BLoC state management. Users can sign up, post topics, reply to discussions, and like replies — all in real time.
 
-### Screenshots
-| Login | Topics List | Replies |
-|-------|-------------|---------|
-| Sign in / Sign up with email & password | Live topic feed from Firestore | Reply thread with likes |
+## 📸 Screenshots
+
+### 🔐 Authentication
+| Login Page | Sign Up Page |
+|:----------:|:------------:|
+| ![Login](screenshots/LoginPage.png) | ![Signup](screenshots/Signup.png) |
+
+### 📋 Forum
+| Topics List | Start New Topic |
+|:-----------:|:---------------:|
+| ![Topics](screenshots/TopicList.png) | ![New Topic](screenshots/StartNewTopic.png) |
+
+### 💬 Replies & Likes
+| Reply Page with Add Reply & Likes |
+|:---------------------------------:|
+| ![Replies](screenshots/ReplyPage_AddReply_AndLikes.png) |
+
+### 🧪 Mockito Unit Tests
+| All 5 Tests Passing |
+|:-------------------:|
+| ![Tests](screenshots/MockitoTesting.png) |
 
 ---
 
